@@ -7,7 +7,7 @@
     <title>Home</title>
 </head>
 <body>
-    <h1>Bienvenido has ingresado satisfactoriamente </h1>
+    <h1>Bienvenido has ingresado {{nombre}} </h1>
     
 </body>
 </html>
